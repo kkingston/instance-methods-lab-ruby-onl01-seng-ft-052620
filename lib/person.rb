@@ -2,6 +2,9 @@ class Person
   def talk
     puts "Hello World!"
   end
+  def walk
+    puts "The person is walking"
 end
 
-talk = Person.new 
+talk = Person.new
+walk = Person.new
