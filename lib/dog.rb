@@ -9,3 +9,7 @@ class Dog
 end
 bark = Dog.new 
 sit = Dog.new
+
+class person
+  
+end
