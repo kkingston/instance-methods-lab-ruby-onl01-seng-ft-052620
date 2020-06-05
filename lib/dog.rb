@@ -1,3 +1,3 @@
 class = Dog 
 end
-Dog.new = "Woof!"
+"Woof!" = Dog.new 
