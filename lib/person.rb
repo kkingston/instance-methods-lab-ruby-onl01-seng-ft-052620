@@ -4,4 +4,4 @@ class Person
   end
 end
 
-talk = person.new 
+talk = Person.new 
